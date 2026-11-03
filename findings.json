@@ -1,0 +1,21 @@
+{
+  "id": "E12",
+  "title": "E12 | Primary capital-adjusted storage surplus",
+  "labels": [
+    "NSW1",
+    "QLD1",
+    "SA1",
+    "TAS1",
+    "VIC1"
+  ],
+  "values": [
+    -26359.396307793708,
+    -2254.7031609632686,
+    -12252.743203690276,
+    -68205.03862939424,
+    -32404.597375529724
+  ],
+  "unit": "Conditional surplus (AUD)",
+  "limitation": "Jan-Jun 2023 fixed physical benchmark; assumed asset/costs, not realized or executable profit.",
+  "rotation": 0
+}
